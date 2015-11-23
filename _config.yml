@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Amin Shah Gilani
-  avatar: bio-photo.jpg
+  avatar: https://avatars0.githubusercontent.com/u/1188552?v=2&s=460
   bio: "Yet another humanoid."
   email: aminshahgilani@gmail.com
   disqus-shortname: amingilani
