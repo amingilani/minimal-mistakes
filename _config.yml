@@ -1,13 +1,13 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Amin Shah Gilani
 locale:           en_US
 url:
 
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   pretty
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -26,33 +26,33 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Amin Shah Gilani
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  bio: "Yet another humanoid."
+  email: aminshahgilani@gmail.com
+  disqus-shortname: amingilani
+  twitter: amingilani
+  facebook: aminshahgilani
   google:
-    plus: #username
-    analytics:
+    plus: AminShahGilani
+    analytics: UA-36754712-2
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  github: amingilani
+  stackoverflow: 3970701/amingilani   #from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: amin-shah-gilani-a5212418
   xing: #username
-  instagram: #username
+  instagram: amingilani
   lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
-  steam: #username
+  steam: amingilani
   dribbble: #username
-  youtube: #username
-  soundcloud: #username
+  youtube: aminshahgilani
+  soundcloud: amingilani
   weibo: #username
   flickr: #username
   codepen: #username
