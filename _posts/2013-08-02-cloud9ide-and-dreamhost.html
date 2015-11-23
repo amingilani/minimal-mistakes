@@ -1,0 +1,39 @@
+---
+layout: post
+title: Cloud9IDE and Dreamhost
+date: 2013-08-02 09:20:40.000000000 +05:00
+categories:
+- Geeking-Out
+tags:
+- Cloud9 IDE
+- Dreamhost
+- Web Development
+status: publish
+type: post
+published: true
+comments: true
+---
+<h2>Story</h2>
+<p>Since I like to grab whatever computer I can find closest to me, the idea of my work being in the cloud obviously sounds very appealing. Yesterday I decided to make the ultimate jump and move my development environment to the cloud too. Enter <a href="https://c9.io/" target="_blank">Cloud9 IDE</a>. It really is like Google Docs for code. Read up on it yourself, but here's how i got my shared Dreamhost account to play nice.<!--more--></p>
+<h2>How</h2>
+<p>I warn you, i think using node.js to actually build production applications is a violation of Dreamhost TOS, but hopefully they'll turn a blind-eye to this for our purposes. Still, i take no responsibility for what happens next.<br />
+First get node.js:</p>
+<pre><p>cd ~ #go to your home directory<br />
+mkdir usr/local/bin #make a local bin<br />
+mkdir tmp #make a new directory called tmp<br />
+cd tmp #cd into tmp<br />
+git clone https://github.com/joyent/node.git #clone node.js<br />
+cd node #cd into node<br />
+git checkout v0.10.15 # v0.10.xx being required at the time i write this<br />
+./configure --prefix=$HOME/usr/local #configure it for your local directory<br />
+# ... random configuration text ...<br />
+make #make it<br />
+# ... random compile text ...<br />
+make install #make install it<br />
+# ... more random text ...<br />
+echo 'export PATH=$PATH:/home/[YOURUSERNAME]/usr/local/bin' &gt;&gt; .bashrc #replace [YOURUSERNAME] with your user<br />
+echo 'export PATH=$PATH:/home/[YOURUSERNAME]/usr/local/bin' &gt;&gt; .bash_profile #replace [YOURUSERNAME] with your user<br />
+#now logout and log back in</p></pre>
+<p>Now start creating a new workspace on Cloud9 IDE and select <em>SSH</em> for Hosting. Copy the rsa key and run the following command on your Dreamhost server:</p>
+<pre><p>echo 'PASTE RSA KEY HERE' &gt;&gt; ~/.ssh/authorized_keys</p></pre>
+<p>Now fill out the host and username, test connection and because it says successful, go do your thing.</p>

@@ -1,0 +1,126 @@
+---
+layout: post
+title: Making the Explorer Bearable
+date: 2012-07-23 12:21:19.000000000 +05:00
+categories:
+- Geeking-Out
+tags:
+- Android
+- HTC Explorer
+- JaggyRom
+- Root
+- Tutorial
+status: publish
+type: post
+published: true
+comments: true
+---
+<p>Considering how generous <a href="http://forum.xda-developers.com/member.php?u=4375224">Jaggyjags</a> was to make and release a custom ROM for us, I thought I might pay him back (and help the new people) by writing a good, easy to follow tutorial on rooting the HTC Explorer (Pico) and installing JaggyRom. This tutorial will be broken into five parts: Unlocking the Bootloader, Installing a custom Recovery, Rooting, Partitioning the SD Card, and Flashing JaggyRom. The instructions here will walk you through everything so if you're just rooting, follow to where you're rooted. Before you do anything, install HTC Sync from <a href="http://www.htc.com/www/help/htc-explorer/#download">here</a>.</p>
+<p><!--more--></p>
+<p>This tutorial simplifies Jaggyjag's rooting guide <a href="http://forum.xda-developers.com/showpost.php?p=20763212&amp;postcount=1">here</a>, and mahmadaq's guide <a href="http://forum.xda-developers.com/showpost.php?p=24242126&amp;postcount=948">here</a>.</p>
+<p>Note: This information is provided as is, I will not be held responsible for any damage you do to your phone.</p>
+<h3><strong>Unlocking The Bootloader</strong></h3>
+<p><span style="color:#ff0000;">Warning: unlocking your Bootloader will probably void your warranty!</span></p>
+<p>This will be short, go <a href="http://www.htcdev.com/bootloader">here</a> and follow along. Choose "all other supported models" because the Explorer isn't listed.</p>
+<p>Done? Yay! Lol, don't worry, the rest gets easier</p>
+<h3><strong>Installing a custom Recovery<br />
+</strong></h3>
+<p>Now, the default Recovery on the phone isn't all that powerful, what we want is to be able to flash a ROM straight from the SD card. Jaggyjags was kind enough to simplify the entire process.</p>
+<ol>
+<li>First download <a href="http://forum.xda-developers.com/attachment.php?attachmentid=913094&amp;d=1329843100">this</a> to your computer.</li>
+<li>Now switch your phone off, take out the battery, plug it back</li>
+<li>Press and hold the volume down button, and the power button.</li>
+<li>Verify that you're at the Bootloader. See the three funny skateboarding Androids? Good.</li>
+<li>Connect your phone to the computer with a USB cable.</li>
+<li>Click Fastbook, it's the first option.</li>
+<li>Now extract the downloaded file, and click <em>Recovery.bat</em></li>
+<li>Make a backup of your current install (instructions at the bottom) - <span style="color:#ff0000;">strongly recommended!</span></li>
+<li>Done!</li>
+</ol>
+<p><em>Do not use the Clockwork Recovery Mod. It doesn't have proper ext support. No, really, JaggyRom won't be able to move stuff to the ext partition. Fine, if you really must.. go on, try it, but don't say I didn't warn you.</em></p>
+<h3><strong>Rooting</strong></h3>
+<p>You're almost there, now for the really easy bit</p>
+<ol>
+<li>Download <a href="http://forum.xda-developers.com/attachment.php?attachmentid=832400&amp;d=1325076959" target="_blank">this</a>.</li>
+<li>Copy it on your SD card</li>
+<li>Boot to Recovery (instructions at the bottom)</li>
+<li>Install the zip file (instructions at the bottom)</li>
+<li>Done!</li>
+</ol>
+<h3><strong>Partitioning the SD Card<br />
+</strong></h3>
+<p>What you need is an ext3 or ext4 partition on your SD card for Jaggyjags to transfer stuff there, most people use pc based tools to partition the SD card, I find it easier and simpler just to do it through Recovery.</p>
+<p><span style="color:#ff0000;">Warning: backup your data, this will destroy it! Instructions at the bottom.<br />
+</span></p>
+<ol>
+<li>Boot to Recovery (instructions at the bottom)</li>
+<li>Advanced&gt;Partition SD card</li>
+<li>Select an Ext size - <span style="color:#ff0000;">max 2048</span></li>
+<li>Set the swap to zero</li>
+<li>Done!</li>
+</ol>
+<p>Regardless of how you partition it, you're safe as long as your keep the partition size less than 2 GB. Also, if you're using JaggyRom, you don't need a swap, set it to zero, i can't vouch for other ROMs though.</p>
+<h3><strong>Installing JaggyRom</strong></h3>
+<p>This bit will be divided into three sections: Wiping Data; which should always be done before installing a new ROM, Installing JaggyRom and Upgrading JaggyRom; which teaches you how to upgrade JaggyRom (if a new version is out) without losing your data.</p>
+<p><span style="color:#ff0000;">Before you do anything, download the latest version of JaggyRom <a href="http://forum.xda-developers.com/showthread.php?t=1473218"><span style="color:#ff0000;">here</span></a>, and place it on the root of your SD Card, by root, I mean don't put it in any folders, put it right at the beginning. Do this now!</span></p>
+<p><span style="color:#ff0000;">Warning: backup your data, this will destroy it! Instructions at the bottom.<br />
+</span></p>
+<p>Wiping Data:</p>
+<ol>
+<li>Boot to Recovery (instructions at the bottom)</li>
+<li>Select <em>wipe data/factory reset, </em>and confirm</li>
+<li>Select <em>advanced</em>&gt;<em>Wipe Dalvik Cache</em>, and confirm</li>
+<li>Almost done!</li>
+</ol>
+<p>Installing JaggyRom:</p>
+<ol>
+<li>Boot to Recovery (instructions at the bottom)</li>
+<li>Install the zip file for JaggyRom (instructions at the bottom)</li>
+<li>Wait until it says the install is complete.</li>
+<li>Reboot the device</li>
+<li>Wait for it, wait for it, and just when you think it's all gone to hell, wait some more...</li>
+<li>After about ten to fifteen minutes, it should show your homescreen.</li>
+<li>Wait one more minute before unlocking and it's ready.</li>
+<li>All done!</li>
+</ol>
+<p>Upgrading JaggyRom<strong>:</strong></p>
+<ol>
+<li>First do a <a href="https://play.google.com/store/apps/details?id=com.keramidas.TitaniumBackup&amp;hl=en">Titanium Backup</a> of your apps</li>
+<li>Boot to Recovery (instructions at the bottom)</li>
+<li>Select <em>advanced</em>&gt;<em>Wipe Dalvik Cache</em>, and confirm</li>
+<li>Now install the zip file (instructions at the bottom)</li>
+<li>Cross your fingers, and let it boot up..</li>
+<li>If it gets stuck at the HTC logo, just run  Fix Permissions from Recovery..</li>
+<li>All done!</li>
+<li>If it didn't work, do a fresh install of JaggyRom, and restore from your Titanium Backup</li>
+</ol>
+<h3><strong>Misc.</strong></h3>
+<p>Booting to Recovery:</p>
+<ol>
+<li>Switch your phone off</li>
+<li>Take the battery out</li>
+<li>Plug it back in</li>
+<li>Press and hold the Volume Down and Power buttons</li>
+<li>Wait until you're at the Bootloader with three skating Androids</li>
+<li>Navigate to Recovery using the Volume buttons and select using the Power button.</li>
+</ol>
+<p>Installing a zip<em>:</em></p>
+<ol>
+<li>Boot to Recovery</li>
+<li>Select <em>Install zip from sdcard</em></li>
+<li>Select <em>choose zip from sdcard</em></li>
+<li>Navigate to your zip file</li>
+<li>Confirm with a Yes<em><br />
+</em></li>
+<li>Let it Install</li>
+<li>Done!</li>
+</ol>
+<p>Making a backup:</p>
+<ol>
+<li>Boot to Recovery</li>
+<li>Select <em>backup and restore</em></li>
+<li>Select <em>backup</em></li>
+<li>Done!</li>
+</ol>
+<p>Congratulations, you've gotten rid of those pesky low internal memory signs! Personally, a day before publishing this, I moved away from JaggyRom because while it was great, it just wasn't stable enough on my phone.. probably because I didn't have the right kind of SD Card. However, because I realized stability is of the utmost importance to my phone habits, I went back to the stock ROM, and installed Link2SD... I'm actually very happy with my decision and might do a tutorial on that later.. but i'm just so lazy. Let me know if you find any mistakes.. And I won't answer stupid questions.</p>
+<p><strong>Update:</strong> a few really developers at XDA got together and ported Cyanogen Mod 9 to the Pico! Cyanogen Mod 9 is a ROM based on Ice Cream Sandwich, only it's packed with more features! I must say, it's the best ROM i've tried so far, even better than the stock ROM! Link to thread is <a href="http://forum.xda-developers.com/showthread.php?t=1821582">here</a>.</p>
