@@ -19,5 +19,5 @@ image:
 
 or send me a **signed** cryptomessage:
 
-+ [PGP key](https://amingilani.github.io/key.asc)
++ [PGP key](http://gilani.me/key.asc)
 + [keybase.io/gilani](https://keybase.io/gilani)
