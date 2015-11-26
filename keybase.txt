@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/gilani
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://amin.gilani.me
+  * I am gilani (https://keybase.io/gilani) on keybase.
+  * I have a public key with fingerprint F317 7EE8 DDC2 161A 2D33  A140 DDB8 3184 A22B 5477
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f3177ee8ddc2161a2d33a140ddb83184a22b5477",
+            "host": "keybase.io",
+            "key_id": "ddb83184a22b5477",
+            "kid": "0101722e71957eca1e6afc0ab34213929e4779c9c68b9cbdddedd8156b13cf2fe13a0a",
+            "uid": "8bfd641c7b7afcb144254b2d7bd93c00",
+            "username": "gilani"
+        },
+        "service": {
+            "hostname": "amin.gilani.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1431734619,
+    "expire_in": 157680000,
+    "prev": "42e0c04fa9a629de87f2c6b2e098a95c3631d7a444428bed71018fcdc731d152",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+owFtkn9MVWUYx++9gV1ZCBJMEWTzyCYIXs97zrnnB/aDMqIZ01oKDph35z3ve6+H
+H+f+5McdIVhYkdoshckVNR0MGdQgGmCUWcCAsZauMCbSKkMFfxBhMHYNei/Zfz3/
+vHu/z/f5PHuePcdCn9AZ9OPdoOp80u4S/fAk1O3JrN5XRkE78lIpZVQ+Xn6sqmbD
+LodL1TxUCmVlgSBgLCKkMIAHMoNYVgYcjRAUWSByMsNAMycIVDK13+4OVBAMlN3Y
+pNqJRj4WFRH1f/z5ywka0EBgGCwAySxgRQaYl60KLUOWYwArMRImbkmRFF6EkgIR
+QhghEZh5CFjFylgxYGVaJriiZZwIrYjngCJAgWAg4DjGzEEGCRBJrELTAaMbuzS5
+EBO3TS2QNZUqT6aIVqwqOLCAwByP83Khqpn+NZmIkEw5XHaPXbEXkNx+j8eREij1
+eB0BbwmGlscUC1Q1RNZICoqxy63aNSoFEKfiUQNYwJGlshwPpGQKlzpUF7aoAYdZ
+4EWaRKANLiZIjsG0QnNWWZJ5RkJYFKyMwkOiSqIsmRWWZwESZI4EI0KMBLJL0aog
+RSA6MDNUYC6nZids0soj2wjTrdo02VPkwpShPKTaEBuk0xt0K4INgVvQhawM/+9A
+/K1hSyjj1zWdB3Vhj9a3zkdW1l49tmP1mZv3dl/dnBGbWHTO0lxXGxHdkjgS9OPM
+dunaH1GVvugVTfq5/jx/9x6lqjouffid7UrTue61wY0/h0xpd49Hli38dL39jcbr
+h8IH29PefDS5NaLrmxF17u+BfP6VuNCMkPx726L8g3f4VzsanMWN03nd4QU9i123
+hHUPy5GUfeFzT/np15W0LKAfOfzdaO3BsVw43UWtdYwfThQu+qL53Idmblpf83te
+1Xlzw2BQ2Ppr7rzujdsW0Is5MSOLNdEbh2M6O4+KGwT18oOEzNc2G4e4rq/mz2ax
+q4yZEc76mKcNX9xsHj5+gE4dGfNGzUyVTbDNzvqvXclvh011lKXii4XRPufke0rq
+3KFmW//An5vifWlbWN9i9nyO9n5xX14v/+SDdSfu+CqloVW9SbeNOQ25c7Mtrd/S
+jtVW/UfwB//tDmNHTcrexGfvn9zaxbRd6Zzz7624sRQbFZPO1JnG49J3qUknn/v+
+sy/PsEefum/Z8fGoXA3RhsaSDypKg+InfoPjUXcvRe4CL7etGW3Orhion55J6und
+sjI+9PkLwX5jrdE72nE2PsH2V2y7sdze03fAtPOFiV9KqVudpn3BV2btp08lDN44
+8tbssHPqyKdBY+++xNT1DX3SsuTYNHBJqr/c39boPfWML3vnfNPCiay0D/8B
+=fhJq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gilani
+
+==================================================================
