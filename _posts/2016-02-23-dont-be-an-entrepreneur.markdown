@@ -3,7 +3,10 @@ layout: post
 title: Don't Be an Entrepreneur
 modified:
 categories:
-excerpt:
+excerpt: "I'm serious, I've gone through Plan9's incubation cycle. I'm currently in Boost
+VC's acceleration cycle. I've burned through money, friends, and time.
+My family and friends have (as supportive as they have been) given up on
+understanding what I am trying to accomplish..."
 tags: []
 image:
   feature:
