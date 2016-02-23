@@ -33,7 +33,7 @@ I have one message for optimistic new entrepreneurs: **you're going to fail,**
 
 It won't be a spectacular failure where everyone pats you on the back and tells
 you that "atleast you tried!" It'll be a quiet death, where all you've worked on
-for months (or years) will just fizzle out and not matter anymore
+for months (or years) will just fizzle out and not matter anymore.
 
 *This is the way the world ends
 Not with a bang but a whimper* --Mistah Kurtz
@@ -44,12 +44,12 @@ shouldn't try entrepreneurship. If you weren't there, don't be an entrepreneur:
 - If you're smart
 - If you have a caring family
 - If you have a boy/girlfriend (it's time to break up)
-- If you still have to complete you education
+- If you still have to complete your education
 - If you need the support of other people
 - If people depend on you.
 - If you're a student
 - If you expect to be rich in a year
 
-If you stil want to be an entrepreneur, tweet to me (entrepreneurs need twitter).
+If you still want to be an entrepreneur, tweet to me (entrepreneurs need twitter).
 If enough people tweet, I'll write a blog post that is actually helpful to
 entrepreneurs.
