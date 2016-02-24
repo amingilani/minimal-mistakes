@@ -14,7 +14,7 @@ image:
 date: 2016-02-23T14:35:22-08:00
 comments: true
 ---
-I received a lot of criticism for my [last post](http://amin.gilani.me/2016/02/23/dont-be-an-entrepreneur/), more than any post midnight Monday nightrant should have (or was it Tuesday morning). But
+I received a lot of criticism for my [last post](http://amin.gilani.me/2016/02/23/dont-be-an-entrepreneur/), more than any post midnight Monday night rant should have (or was it Tuesday morning). But
 the tweets below were exactly what I was hoping for. And I couldn't be happier.
 Don't be an entrepreneur, unless you're stubborn enough to go on despite the odds.
 
