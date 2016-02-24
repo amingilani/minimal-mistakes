@@ -14,6 +14,10 @@ image:
 date: 2016-02-23T14:35:22-08:00
 comments: true
 ---
+I received a lot of criticism for my [last post](http://amin.gilani.me/2016/02/23/dont-be-an-entrepreneur/), more than any post midnight Monday nightrant should have (or was it Tuesday morning). But
+the tweets below were exactly what I was hoping for. And I couldn't be happier.
+Don't be an entrepreneur, unless you're stubborn enough to go on despite the odds.
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/amingilani">@amingilani</a> Just finished reading your blogpost Amin <br><br>Now please write one on the perks :D</p>&mdash; Syed Saad (@syedsdd) <a href="https://twitter.com/syedsdd/status/702086733299589120">February 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -27,10 +31,6 @@ comments: true
 [SMAG](//smag.io), which is an amazing product. She's also a female founder, so
 *girl power!*)
 
-I received a lot of criticism for my [last post](http://amin.gilani.me/2016/02/23/dont-be-an-entrepreneur/), more than any post midnight Monday nightrant should have (or was it Tuesday morning). But
-the tweets above were exactly what I was hoping for. And I couldn't be happier.
-Don't be an entrepreneur, unless you're stubborn enough to go on despite that.
-
 ## An Entrepreneur
 
 <blockquote>There are four factors of production: land, labor, capital and
@@ -41,7 +41,7 @@ output. &mdash; also every textbook ever</blockquote>
 An entrepreneur is nothing more than an additional factor of production. Your
 job is the same as the others: making output. Output can be your service,
 or product. It's your job to make it happen. If you don't, you're a failure.
-But that's okay. Most entrepreneurs fail.
+But that's okay. Most entrepreneurs fail. Just try again.
 
 ## Entrepreneurship Isn't Rational
 
@@ -105,6 +105,10 @@ place.
 Startups are a lot of disappointments, a lot of fun, and a lot of confusion.
 [How Startups Really Are](http://www.paulgraham.com/really.html) by Paul Graham
 does a pretty good job, but it's really long so don't go there just yet.
+
+Failure is a part of entrepreneurship. Try not to fail. Don't be a push over.
+But if you do fail, it's okay. Try again. *The odds of winning a coin-toss
+game in the next round increase exponentially, the more you lose*
 
 ## Startups Are Fun
 
