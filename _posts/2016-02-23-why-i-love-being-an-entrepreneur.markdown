@@ -29,14 +29,14 @@ date: 2016-02-23T14:35:22-08:00
 I received a lot of criticism for my last post, more than any post midnight
 Monday night (or was it Tuesday morning) rant should have. But the tweets above
 were exactly what I was hoping for. And I couldn't be happier. Don't be an
-entpreneur, unless you're just that dedicated.
+entrepreneur, unless you're just that dedicated.
 
 ## An Entrepreneur
 
 <blockquote>There are four factors of production: land, labor, capital and
-entrepreneurship. -- every textbook ever</blockquote>
+entrepreneurship. &mdash; every textbook ever</blockquote>
 <blockquote>An entrepreneur brings all factors of production together to product
-output. -- also every textbook ever</blockquote>
+output. &mdash; also every textbook ever</blockquote>
 
 An entrepreneur is nothing more than an additional factor of production. Your
 job is the same as the others: making output. Output can be your service,
@@ -125,9 +125,11 @@ Yesterday, I was sitting with a few other founders and I squealed in excitement
 when I spotted someone's [Yubikey](https://www.yubico.com/products/). He was
 just as excited when I removed my own Yubikey from my pocket.
 
-Today, I was working on my table, barefoot, when a billionaire walked up to my
-table. After a quick introduction he gave me his card, and said he was excited
-about our work. I don't think I've ever shaken hands with a billionaire before.
+Today, I was working on my table, barefoot, without having brushed my teeth,
+when a billionaire walked up to me. After a quick introduction he gave me his
+card, and said he was excited about our work. I don't think I've ever shaken
+hands with a billionaire before. I should really start wearing shoes, but I
+don't like them.
 
 ## Don't Be An Entrepreneur
 
