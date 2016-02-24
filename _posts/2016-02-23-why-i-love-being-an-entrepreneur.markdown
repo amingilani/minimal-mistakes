@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I Love Being an Entrepreneur
+title: Why I'm Stupid to Be An Entrepreneur
 modified:
 categories:
 excerpt: "The crowning moment of recognition for my entrepreneurial journey was when
