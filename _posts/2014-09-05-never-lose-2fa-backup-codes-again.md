@@ -12,6 +12,7 @@ image:
   feature:
 date: 2014-09-05T04:00:56+05:00
 comments: true
+
 ---
 
 Sometimes don't print my Two-Factor Authentication backup codes all the time. I'm either not near a printer, or I'm just being lazy. Although, finally, after being locked out of my account a bunch of times, I worked out a way to never let that happen again. Here's what you need:

@@ -12,6 +12,7 @@ tags:
 image:
   feature:
 date: 2016-02-23T14:35:22-08:00
+comments: true
 ---
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/amingilani">@amingilani</a> Just finished reading your blogpost Amin <br><br>Now please write one on the perks :D</p>&mdash; Syed Saad (@syedsdd) <a href="https://twitter.com/syedsdd/status/702086733299589120">February 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -26,10 +27,9 @@ date: 2016-02-23T14:35:22-08:00
 [SMAG](//smag.io), which is an amazing product. She's also a female founder, so
 *girl power!*)
 
-I received a lot of criticism for my last post, more than any post midnight
-Monday night (or was it Tuesday morning) rant should have. But the tweets above
-were exactly what I was hoping for. And I couldn't be happier. Don't be an
-entrepreneur, unless you're just that dedicated.
+I received a lot of criticism for my [last post](http://amin.gilani.me/2016/02/23/dont-be-an-entrepreneur/), more than any post midnight Monday nightrant should have (or was it Tuesday morning). But
+the tweets above were exactly what I was hoping for. And I couldn't be happier.
+Don't be an entrepreneur, unless you're stubborn enough to go on despite that.
 
 ## An Entrepreneur
 

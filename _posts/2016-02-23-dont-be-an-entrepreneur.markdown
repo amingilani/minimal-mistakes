@@ -11,6 +11,7 @@ tags: []
 image:
   feature:
 date: 2016-02-23T00:14:04-08:00
+comments: true
 ---
 
 I'm serious, I've gone through Plan9's incubation cycle. I'm currently in Boost
