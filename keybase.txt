@@ -4,64 +4,47 @@ https://keybase.io/gilani
 
 I hereby claim:
 
-  * I am an admin of http://amin.gilani.me
+  * I am an admin of http://gilani.me
   * I am gilani (https://keybase.io/gilani) on keybase.
-  * I have a public key with fingerprint F317 7EE8 DDC2 161A 2D33  A140 DDB8 3184 A22B 5477
+  * I have a public key ASAOjVFyPrChRmDzFnrnq3m4JByzi9_jNdtp9f2i9I5gLwo
 
 To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "fingerprint": "f3177ee8ddc2161a2d33a140ddb83184a22b5477",
+            "eldest_kid": "0101a16201f15b7e53798d0fcfbd81a99c2b139a845825ea496512b8928f10dfd4460a",
             "host": "keybase.io",
-            "key_id": "ddb83184a22b5477",
-            "kid": "0101722e71957eca1e6afc0ab34213929e4779c9c68b9cbdddedd8156b13cf2fe13a0a",
+            "kid": "01200e8d51723eb0a14660f3167ae7ab79b8241cb38bdfe335db69f5fda2f48e602f0a",
             "uid": "8bfd641c7b7afcb144254b2d7bd93c00",
             "username": "gilani"
         },
         "service": {
-            "hostname": "amin.gilani.me",
+            "hostname": "gilani.me",
             "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1431734619,
-    "expire_in": 157680000,
-    "prev": "42e0c04fa9a629de87f2c6b2e098a95c3631d7a444428bed71018fcdc731d152",
-    "seqno": 19,
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.15"
+    },
+    "ctime": 1462257769,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1462257677,
+        "hash": "dc52efde31e2878fb92f24e39937928dced707d0ff2d715b0ab05fbd009a4c8dc4751da62be1451ea5e7639fa05dc0e6db400194d350fa86c7dae188111595bb",
+        "seqno": 455739
+    },
+    "prev": "b1e1cc5fd15e3d485c68b8871dc5d864e149997fe61180fde68c7ffc31abda0d",
+    "seqno": 32,
     "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: GnuPG v2.0.22 (GNU/Linux)
-
-owFtkn9MVWUYx++9gV1ZCBJMEWTzyCYIXs97zrnnB/aDMqIZ01oKDph35z3ve6+H
-H+f+5McdIVhYkdoshckVNR0MGdQgGmCUWcCAsZauMCbSKkMFfxBhMHYNei/Zfz3/
-vHu/z/f5PHuePcdCn9AZ9OPdoOp80u4S/fAk1O3JrN5XRkE78lIpZVQ+Xn6sqmbD
-LodL1TxUCmVlgSBgLCKkMIAHMoNYVgYcjRAUWSByMsNAMycIVDK13+4OVBAMlN3Y
-pNqJRj4WFRH1f/z5ywka0EBgGCwAySxgRQaYl60KLUOWYwArMRImbkmRFF6EkgIR
-QhghEZh5CFjFylgxYGVaJriiZZwIrYjngCJAgWAg4DjGzEEGCRBJrELTAaMbuzS5
-EBO3TS2QNZUqT6aIVqwqOLCAwByP83Khqpn+NZmIkEw5XHaPXbEXkNx+j8eREij1
-eB0BbwmGlscUC1Q1RNZICoqxy63aNSoFEKfiUQNYwJGlshwPpGQKlzpUF7aoAYdZ
-4EWaRKANLiZIjsG0QnNWWZJ5RkJYFKyMwkOiSqIsmRWWZwESZI4EI0KMBLJL0aog
-RSA6MDNUYC6nZids0soj2wjTrdo02VPkwpShPKTaEBuk0xt0K4INgVvQhawM/+9A
-/K1hSyjj1zWdB3Vhj9a3zkdW1l49tmP1mZv3dl/dnBGbWHTO0lxXGxHdkjgS9OPM
-dunaH1GVvugVTfq5/jx/9x6lqjouffid7UrTue61wY0/h0xpd49Hli38dL39jcbr
-h8IH29PefDS5NaLrmxF17u+BfP6VuNCMkPx726L8g3f4VzsanMWN03nd4QU9i123
-hHUPy5GUfeFzT/np15W0LKAfOfzdaO3BsVw43UWtdYwfThQu+qL53Idmblpf83te
-1Xlzw2BQ2Ppr7rzujdsW0Is5MSOLNdEbh2M6O4+KGwT18oOEzNc2G4e4rq/mz2ax
-q4yZEc76mKcNX9xsHj5+gE4dGfNGzUyVTbDNzvqvXclvh011lKXii4XRPufke0rq
-3KFmW//An5vifWlbWN9i9nyO9n5xX14v/+SDdSfu+CqloVW9SbeNOQ25c7Mtrd/S
-jtVW/UfwB//tDmNHTcrexGfvn9zaxbRd6Zzz7624sRQbFZPO1JnG49J3qUknn/v+
-sy/PsEefum/Z8fGoXA3RhsaSDypKg+InfoPjUXcvRe4CL7etGW3Orhion55J6und
-sjI+9PkLwX5jrdE72nE2PsH2V2y7sdze03fAtPOFiV9KqVudpn3BV2btp08lDN44
-8tbssHPqyKdBY+++xNT1DX3SsuTYNHBJqr/c39boPfWML3vnfNPCiay0D/8B
-=fhJq
------END PGP MESSAGE-----
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDo1Rcj6woUZg8xZ656t5uCQcs4vf4zXbafX9ovSOYC8Kp3BheWxvYWTFAu97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYTE2MjAxZjE1YjdlNTM3OThkMGZjZmJkODFhOTljMmIxMzlhODQ1ODI1ZWE0OTY1MTJiODkyOGYxMGRmZDQ0NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGU4ZDUxNzIzZWIwYTE0NjYwZjMxNjdhZTdhYjc5YjgyNDFjYjM4YmRmZTMzNWRiNjlmNWZkYTJmNDhlNjAyZjBhIiwidWlkIjoiOGJmZDY0MWM3YjdhZmNiMTQ0MjU0YjJkN2JkOTNjMDAiLCJ1c2VybmFtZSI6ImdpbGFuaSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZ2lsYW5pLm1lIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNSJ9LCJjdGltZSI6MTQ2MjI1Nzc2OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDYyMjU3Njc3LCJoYXNoIjoiZGM1MmVmZGUzMWUyODc4ZmI5MmYyNGUzOTkzNzkyOGRjZWQ3MDdkMGZmMmQ3MTViMGFiMDVmYmQwMDlhNGM4ZGM0NzUxZGE2MmJlMTQ1MWVhNWU3NjM5ZmEwNWRjMGU2ZGI0MDAxOTRkMzUwZmE4NmM3ZGFlMTg4MTExNTk1YmIiLCJzZXFubyI6NDU1NzM5fSwicHJldiI6ImIxZTFjYzVmZDE1ZTNkNDg1YzY4Yjg4NzFkYzVkODY0ZTE0OTk5N2ZlNjExODBmZGU2OGM3ZmZjMzFhYmRhMGQiLCJzZXFubyI6MzIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA7rfGP7oiqXS3HKJa72uTe8uu3sUJK/x78lYrqLW4heyGdi32VJMCoL0l1BIeK7TgTdzIGuqaK2Sl+OZTidHVCqhzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
